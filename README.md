@@ -1,172 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:052c4f,100:396b98&text=Victoria%20Gaunt&fontSize=56&fontColor=ddeaf6&fontAlignY=38&desc=Frontend%20%2F%20Fullstack%20Developer%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20TypeScript%20%C2%B7%20ASP.NET%20Core&descSize=20&descAlignY=58&descColor=ddeaf6&animation=fadeIn" width="100%" alt="Victoria Gaunt hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;color=0:052c4f,100:396b98&amp;text=Victoria%20Gaunt&amp;fontSize=56&amp;fontColor=ddeaf6&amp;fontAlignY=38&amp;desc=Business%20Analyst%20%2F%20Data%20Analyst&amp;descSize=24&amp;descAlignY=59&amp;animation=fadeIn" width="100%" alt="Victoria Gaunt — Business Analyst / Data Analyst" />
+
+**Python · pandas · SQL · MySQL · PostgreSQL · MongoDB · Business Analysis**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=396B98&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Turning+business+questions+into+clear+requirements;Preparing+and+analysing+data+with+Python+and+SQL;Connecting+data%2C+processes+and+digital+products" width="100%" alt="Business requirements, data analysis and digital products" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=DDEAF6&center=true&vCenter=true&width=1000&lines=Creating+dashboards%2C+admin+panels+and+analytics-driven+interfaces;Designing+frontend+architecture+with+typed+logic;Turning+business+requirements+into+working+digital+products" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://github.com/VictoriaGaunt">
-  <img src="https://img.shields.io/badge/GitHub-VICTORIAGAUNT-120767?style=for-the-badge&logo=github&logoColor=DDEAF6&labelColor=120767" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-VictoriaGaunt-052c4f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub VictoriaGaunt" />
 </a>
-<a href="https://t.me/@KotzTori">
-  <img src="https://img.shields.io/badge/Telegram-@Kotz_Tori-120767?style=for-the-badge&logo=telegram&logoColor=DDEAF6&labelColor=120767" alt="Telegram" />
+<a href="https://t.me/KotzTori">
+  <img src="https://img.shields.io/badge/Telegram-%40KotzTori-052c4f?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram @KotzTori" />
 </a>
 <a href="mailto:vika.argent@gmail.com">
-  <img src="https://img.shields.io/badge/Email-VIKA.ARGENT%40GMAIL.COM-120767?style=for-the-badge&logo=gmail&logoColor=DDEAF6&labelColor=120767" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-vika.argent%40gmail.com-052c4f?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email vika.argent@gmail.com" />
 </a>
+
+**Based in Chelyabinsk, Russia · Open to remote Business Analyst / Data Analyst roles**
+
 </div>
 
 ---
 
 ## About me
 
-I am a **Frontend / Fullstack Developer** focused on building structured, maintainable and user-oriented web applications.
+I am a **Business Analyst / Data Analyst** working with economic data, business requirements and digital products.
 
-My main strength is combining **frontend engineering, product thinking and analytical logic**. I enjoy turning complex requirements into clear interfaces, scalable architecture and working product features.
+My work combines **data analysis, process modelling and a background in fullstack development**. I translate business questions into requirements, describe data structures and user scenarios, and prepare analytical reports.
 
-- Frontend: **Vue 3, Nuxt 3, TypeScript, JavaScript, Vite, Pinia**
-- Backend: **ASP.NET Core, C#, REST API, Node.js**
-- Data & analytics: **dashboards, admin panels, KPI interfaces, reporting tools**
-- Engineering focus: **clean architecture, reusable components, typed state management, API contracts**
-- Current direction: **production-style portfolio projects, fullstack applications and data-driven interfaces**
+Since March 2024, I have worked at the **Institute of Economics, Ural Branch of the Russian Academy of Sciences**, focusing on economic and social indicators and the **PhDPlatform** project.
 
----
+I am interested in **banking and financial services**, particularly digital products, process automation, reporting and data quality.
 
-## Core stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,sass,vite,pinia,nodejs,dotnet,cs,python,docker,git,github,mongodb,sqlite" alt="Core tech stack" />
-
-</div>
+- **Data analysis:** data preparation, exploratory analysis, aggregation, statistical analysis and interpretation.
+- **Business analysis:** requirements elicitation, process descriptions, User Stories, Use Cases and task decomposition.
+- **Data modelling:** entities, relationships, validation rules and data flows.
+- **Technical collaboration:** REST API, API documentation, roles, permissions and interaction between application components.
 
 ---
 
-## GitHub analytics
+## Data analysis stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictoriaGaunt&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,sqlite&amp;perline=5" alt="Python, MySQL, PostgreSQL, MongoDB and SQLite" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaGaunt&layout=compact&hide_border=true&langs_count=8&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="Top Languages" />
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=VictoriaGaunt&hide_border=true&background=052c4f&ring=2986CC&fire=2986CC&currStreakLabel=DDEAF6&sideLabels=DDEAF6&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=396B98" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaGaunt&bg_color=052c4f&color=ffffff&line=cfe2f3&point=FFF7E0&area=true&area_color=396b98&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/statsmodels-396b98?style=for-the-badge" alt="statsmodels" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
 
 </div>
+
+| Area | Tools and methods |
+| --- | --- |
+| Data preparation and analysis | **Python, pandas, NumPy** |
+| Statistical analysis | **SciPy, statsmodels** |
+| Data visualisation | **Matplotlib, Seaborn, Plotly** |
+| Querying and relational databases | **SQL, MySQL, PostgreSQL, SQLite** |
+| Document databases | **MongoDB, PyMongo** |
+| Database access from Python | **SQLAlchemy, PyMySQL** |
+| Notebooks and file processing | **Jupyter Notebook, openpyxl, CSV, JSON, XLSX** |
+
+## Business analysis stack
+
+| Area | Tools and deliverables |
+| --- | --- |
+| Requirements | Business and functional requirements, **BRD, SRS, technical specifications** |
+| Process modelling | **BPMN, UML**, user flows and process descriptions |
+| Scenarios | **User Stories, Use Cases**, roles and permissions |
+| Data modelling | **ER diagrams**, entities, relationships and validation rules |
+| Integration analysis | **REST API, Swagger / OpenAPI**, data flows and API contracts |
+| Delivery support | Task decomposition, developer specifications and documentation |
+| Collaboration | **Jira, Confluence** and stakeholder communication |
 
 ---
 
-## Professional focus
+## Featured project — PhDPlatform
 
-<div align="center">
+### [Economic data and research platform](https://github.com/VictoriaGaunt/PhDPlatform)
 
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "pie1": "#5b5b5b",
-    "pie2": "#990000",
-    "pie3": "#0b5394",
-    "pie4": "#1d7629",
-    "pie5": "#351c75",
-    "pieTitleTextColor": "#ddeaf6",
-    "pieSectionTextColor": "#ffffff",
-    "pieLegendTextColor": "#ffffff",
-    "pieOuterStrokeColor": "#052c4f",
-    "pieOuterStrokeWidth": "2px",
-    "fontFamily": "Inter, Segoe UI, sans-serif"
-  }
-}}%%
-pie showData
-    title Professional Focus
-    "Frontend Architecture [35]" : 35
-    "Fullstack Development [25]" : 25
-    "Dashboards & Analytics [20]" : 20
-    "API Integration [12]" : 12
-    "Product Thinking [8]" : 8
-````
+A project for organising regional economic and social indicators and supporting analytical and research work.
 
-</div>
+My contribution connects business analysis, data organisation and application development:
 
-> **Note:** this chart is **manual**, not generated by GitHub.
-> It reflects my current professional positioning and can be adjusted depending on portfolio focus.
+- Defining the purpose of modules and describing user scenarios.
+- Formalising requirements for data loading, storage, validation and use.
+- Describing indicators, entities, relationships and data flows.
+- Connecting research questions with application requirements and analytical outputs.
+- Developing the platform with **TypeScript, Node.js, REST API and MongoDB**.
+
+**Focus:** economic indicators · data models · requirements · analytical reporting.
 
 ---
 
-## Contribution snake
+## Technical background
+
+My frontend and backend experience helps me assess implementation constraints and work with developers on requirements, interfaces and integrations.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictoriaGaunt/VictoriaGaunt/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictoriaGaunt/VictoriaGaunt/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VictoriaGaunt/VictoriaGaunt/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,nodejs,dotnet,cs,docker,git,github&amp;perline=10" alt="TypeScript, JavaScript, Vue, Nuxt, Node.js, ASP.NET Core, C#, Docker, Git and GitHub" />
 
 </div>
 
+- **Frontend:** Vue 3, Nuxt 3, TypeScript, JavaScript, Vite, Pinia.
+- **Backend:** Node.js, ASP.NET Core, C#, REST API.
+- **Workflow:** Git, GitHub, Docker.
+- **Interfaces:** dashboards, administrative panels, charts, tables and filters.
+
+### Other development projects
+
+- [3DOutlet](https://github.com/VictoriaGaunt/3DOutlet)
+- [ParkMon](https://github.com/VictoriaGaunt/ParkMon)
+
 ---
 
-## Featured repositories
+## Education and languages
+
+**Master's degree — Human Resource Management**  
+Higher School of Economics, South Ural State University · 2019
+
+**Russian:** native · **English:** B2
+
+---
+
+<details>
+<summary><strong>GitHub activity</strong></summary>
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/VictoriaGaunt/3DOutlet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=3DOutlet&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="3DOutlet repository card" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictoriaGaunt&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true&amp;bg_color=052c4f&amp;title_color=ddeaf6&amp;text_color=ffffff&amp;icon_color=2986CC" alt="GitHub contribution statistics" />
 
-<a href="https://github.com/VictoriaGaunt/ParkMon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=ParkMon&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="ParkMon repository card" />
-</a>
-
-<a href="https://github.com/VictoriaGaunt/PhDPlatform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=PhDPlatform&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="PhDPlatform repository card" />
-</a>
-
-<!-- Если tronk.todo продолжает ломать блок, либо проверь точное имя репозитория, либо временно убери этот card -->
-
-<a href="https://github.com/VictoriaGaunt/tronk.todo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=tronk.todo&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="tronk.todo repository card" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaGaunt&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=052c4f&amp;title_color=ddeaf6&amp;text_color=ffffff" alt="Languages represented in public repositories" />
 
 </div>
 
----
-
-## What I build
-
-| Area                  | What I work with                                            |
-| --------------------- | ----------------------------------------------------------- |
-| Frontend applications | Vue, Nuxt, TypeScript, Vite, Pinia                          |
-| Fullstack products    | ASP.NET Core, C#, Node.js, REST API                         |
-| Dashboards            | analytics panels, KPI cards, charts, tables, filters        |
-| Architecture          | reusable components, typed stores, clean API contracts      |
-| Product logic         | requirements decomposition, user flows, interface structure |
+</details>
 
 ---
 
 ## Contact
 
-* Telegram: [@Gaunt_W](https://t.me/@KotzTori)
-* Email: [vika.argent@gmail.com](mailto:vika.argent@gmail.com)
-
----
+- **Telegram:** [@KotzTori](https://t.me/KotzTori)
+- **Email:** [vika.argent@gmail.com](mailto:vika.argent@gmail.com)
+- **GitHub:** [VictoriaGaunt](https://github.com/VictoriaGaunt)
 
 <div align="center">
 
-### I build thoughtful interfaces and scalable systems that turn data into insight and ideas into working products.
+**Business requirements · Reliable data · Clear analytical results**
 
 </div>
